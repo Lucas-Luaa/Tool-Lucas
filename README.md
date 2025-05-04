@@ -1,3 +1,8 @@
+# Loadstring
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucas-Luaa/Tool-Lucas/refs/heads/main/Tool"))()
+```
+
 # Document
 
 # Dex infiniteyield
